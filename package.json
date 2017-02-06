@@ -1,0 +1,32 @@
+{
+  "name": "github-add-key",
+  "version": "1.0.0",
+  "description": "Tiny funny automation for GitHub multiple deploy keys management",
+  "main": "index.js",
+  "bin": "bin/github-add-key",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vassiliy/github-add-key.git"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "bin/"
+  ],
+  "keywords": [
+    "github",
+    "multiple",
+    "deploy",
+    "keys",
+    "management",
+    "ssh",
+    "config"
+  ],
+  "author": "Vassiliy Pimkin <vassiliy.pimkin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vassiliy/github-add-key/issues"
+  },
+  "homepage": "https://github.com/vassiliy/github-add-key#readme"
+}
